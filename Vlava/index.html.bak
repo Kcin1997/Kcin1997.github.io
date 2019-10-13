@@ -1,36 +1,41 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!-- BASICS -->
+    <title>Vlava - One page responsive bootstrap site template</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="js/rs-plugin/css/settings.css"
 
-<head>
-  <!-- BASICS -->
-  <meta charset="utf-8">
-  <title>Canopy capstone project website</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="js/rs-plugin/css/settings.css" media="screen">
-  <link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen">
-  <link rel="stylesheet" href="css/flexslider.css" type="text/css">
-  <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen">
-  <link rel="stylesheet" href="css/bootstrap.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400italic,700|Open+Sans:300,400,600,700">
+      media="screen">
+    <link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen">
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css">
+    <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css"
 
-  <link rel="stylesheet" href="css/style.css">
-  <!-- skin -->
-  <link rel="stylesheet" href="skin/default.css">
+      media="screen">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400italic,700%7COpen+Sans:300,400,600,700">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- skin -->
+    <link rel="stylesheet" href="skin/default.css">
+    <!-- =======================================================
+    Theme Name: Vlava    Theme URL: https://bootstrapmade.com/vlava-free-bootstrap-one-page-template/    Author: BootstrapMade.com    Author URL: https://bootstrapmade.com  ======================================================= -->
+  </head>
+  <body>
+    <section id="header" class="appear"></section>
+    <div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(0,0,0,0.3);"
 
+      data-300="line-height:60px; height:60px; background-color:rgba(5, 42, 62, 1);">
+      <div class="container">
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
 
-</head>
+            data-toggle="collapse" data-target=".navbar-collapse"> <span
 
-<body>
-  <section id="header" class="appear"></section>
-  <div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(0,0,0,0.3);" data-300="line-height:60px; height:60px; background-color:rgba(5, 42, 62, 1);">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-      	  <span class="fa fa-bars color-white"></span>
-        </button>
-        <div class="navbar-logo">
-          <a href="index.html"><img src="img/logo.png" alt="" data-0="width:105px;" data-300=" width:70px;"></a>
+              class="fa fa-bars color-white"></span> </button>
+          <div class="navbar-logo"> <a href="index.html"><img data-0="width:155px;"
+
+                data-300=" width:120px;" src="img/logo.png" alt=""></a> </div>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
@@ -42,14 +47,12 @@
         </div>
         <!--/.navbar-collapse --> </div>
     </div>
-  </div>
-
-  <section id="intro">
-    <div class="intro-content">
-      <h2>Canopy</h2>
-      <h3>Characterize 3D Vegetation Structure in Tropical Ecosystems</h3>
-      <div>
-        <a href="#section-services" class="btn-get-started scrollto">Get Started</a>
+    <section id="intro">
+      <div class="intro-content">
+        <h2>Welcome to Vlava!</h2>
+        <h3>Lorem ipsum dolor sit amet, elit persecuti efficiendi</h3>
+        <div> <a href="#section-services" class="btn-get-started scrollto">Get
+            Started</a> </div>
       </div>
     </section>
     <!-- services -->
@@ -137,132 +140,88 @@
                       <br>
                       <span class="author">— SARAH DOE <a href="#">www.siteurl.com</a></span>
                     </div>
-                    <i class="fa fa-quote-left fa-3x"></i>
-					  <h5><strong>Robert Pluege</strong></h5>
-                    <br/>
-                    <span class="author"><strong>— Team leader and Customer Communicator<br/>
-					                              Be responsible for client communication, administrative duties, and team coordination.</strong>
-</span>
-                  </div>
-                </li>
+                  </li>
+                  <li>
+                    <div class="testimonial clearfix">
+                      <div class="mar-bot20"> <img alt="" src="img/testimonial/testimonial2.png"
 
-                <li>
-                  <div class="testimonial clearfix">
-                    <div class="mar-bot20">
-                      <img alt="" src="img/testimonial/testimonial2.png" class="img-circle">
+                          class="img-circle"> </div>
+                      <i class="fa fa-quote-left fa-5x"></i>
+                      <h5> Nunc velit risus, dapibus non interdum quis, suscipit
+                        nec dolor. Vivamus tempor tempus mauris vitae fermentum.
+                        In vitae nulla lacus. Sed sagittis tortor vel arcu
+                        sollicitudin nec tincidunt metus suscipit.Nunc velit
+                        risus, dapibus non interdum. </h5>
+                      <br>
+                      <span class="author">— NICOLE DOE <a href="#">www.siteurl.com</a></span>
                     </div>
-                    <i class="fa fa-quote-left fa-3x"></i>
-                    <h5><strong>Dongyu Xia</strong></h5>
-                    <br>
-                    <span class="author"><strong>—</strong><strong> Release Manager<br>
-Be responsible for ensuring that the team GitHub workflow is followed</strong></span></div>
-                </li>
-                <li>
-                  <div class="testimonial clearfix">
-                    <div class="mar-bot20">
-                      <img alt="" src="img/testimonial/testimonial3.png" class="img-circle">
+                  </li>
+                  <li>
+                    <div class="testimonial clearfix">
+                      <div class="mar-bot20"> <img alt="" src="img/testimonial/testimonial3.png"
+
+                          class="img-circle"> </div>
+                      <i class="fa fa-quote-left fa-5x"></i>
+                      <h5> Nunc velit risus, dapibus non interdum quis, suscipit
+                        nec dolor. Vivamus tempor tempus mauris vitae fermentum.
+                        In vitae nulla lacus. Sed sagittis tortor vel arcu
+                        sollicitudin nec tincidunt metus suscipit.Nunc velit
+                        risus, dapibus non interdum. </h5>
+                      <br>
+                      <span class="author">— DASON KRUN <a href="#">www.siteurl.com</a></span>
                     </div>
-                    <i class="fa fa-quote-left fa-5x"></i>
-                    <h5>Maria Granroth
-											</h5>
-                    <br/>
-                    <span class="author"><strong>— Recorder <br/>
-					  Be responsible for editing and writing documents, weekly task reports, and meeting minutes</strong></span>
-                  </div>
-                </li>
-				<li>
-                  <div class="testimonial clearfix">
-                    <div class="mar-bot20">
-                      <img alt="" src="img/testimonial/testimonial4.png" class="img-circle">
-                    </div>
-                    <i class="fa fa-quote-left fa-3x"></i>
-                    <h5>Nicholas Lopez</h5>
-                    <br/>
-                    <span class="author"><strong>— Architect<br/>
-					  Be responsible for ensuring that core architectural decisions are implemented</strong></span>
-                  </div>
-                </li>
-              </ul>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-
-  <!-- about -->
-  <section id="section-about" class="section appear clearfix">
-    <div class="container">
-
-      <div class="row mar-bot40">
-        <div class="col-md-offset-3 col-md-6">
-          <div class="section-header">
-            <h2 class="section-heading animated" data-animation="bounceInUp">Behind Canopy</h2>
-          </div>
-        </div>
-      </div>
-
-      <div class="row align-center mar-bot40">
-        <div class="col-md-6">
-          <div class="team-member">
-            <figure class="member-photo"><img src="img/team/member1.jpg" height="128" weight="128" alt=""></figure>
-            <div class="team-detail">
-              <h4>Scooter Nowak</h4>
-              <span>Team mentor</span>
+    </section>
+    <!-- about -->
+    <section id="section-about" class="section appear clearfix">
+      <div class="container">
+        <div class="row mar-bot40">
+          <div class="col-md-offset-3 col-md-6">
+            <div class="section-header">
+              <h2 class="section-heading animated" data-animation="bounceInUp">Behind
+                Vlava</h2>
+              <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet
+                consectetur, adipisci velit, sed quia non numquam.</p>
             </div>
           </div>
         </div>
-        <div class="col-md-6">
-          <div class="team-member">
-            <figure class="member-photo"><img src="img/team/member2.jpg" height="128" weight="128" alt=""></figure>
-            <div class="team-detail">
-              <h4>Dr. Patrick Jantz</h4>
-              <span>Project Sponsor</span>
+        <div class="row align-center mar-bot40">
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure class="member-photo"><img src="img/team/member1.jpg" alt=""></figure>
+              <div class="team-detail">
+                <h4>Jason Doe</h4>
+                <span>User experiences</span> </div>
             </div>
           </div>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-  <!-- /about -->
-
-  <!-- spacer section:stats -->
-  <section id="parallax1" class="section" data-stellar-background-ratio="0.5">
-    <div class="container">
-      <div class="row appear stats">
-        <div class="col-md-3">
-          <div class="align-center color-white txt-shadow">
-            <div class="icon">
-              <i class="fa fa-coffee fa-5x"></i>
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure class="member-photo"><img src="img/team/member2.jpg" alt=""></figure>
+              <div class="team-detail">
+                <h4>Timothy Clark</h4>
+                <span>Web developer</span> </div>
             </div>
-            <strong id="counter-coffee" class="number">500</strong><br>
-            <span class="text">Black Coffee Cups</span>
           </div>
-        </div>
-        <div class="col-md-3">
-          <div class="align-center color-white txt-shadow">
-            <div class="icon">
-              <i class="fa fa-music fa-5x"></i>
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure class="member-photo"><img src="img/team/member3.jpg" alt=""></figure>
+              <div class="team-detail">
+                <h4>Vicky Tan</h4>
+                <span>Web designer</span> </div>
             </div>
-            <strong id="counter-music" class="number">345</strong><br>
-            <span class="text">MP3 Songs</span>
           </div>
-        </div>
-        <div class="col-md-3">
-          <div class="align-center color-white txt-shadow">
-            <div class="icon">
-              <i class="fa fa-clock-o fa-5x"></i>
-            </div>
-            <strong id="counter-clock" class="number">1235</strong><br>
-            <span class="text">Hard Minutes</span>
-          </div>
-        </div>
-        <div class="col-md-3">
-          <div class="align-center color-white txt-shadow">
-            <div class="icon">
-              <i class="fa fa-heart fa-5x"></i>
+          <div class="col-md-3">
+            <div class="team-member">
+              <figure class="member-photo"><img src="img/team/member4.jpg" alt=""></figure>
+              <div class="team-detail">
+                <h4>Kevin Peterson</h4>
+                <span>UI designer</span> </div>
             </div>
           </div>
         </div>
@@ -328,7 +287,7 @@ class="cform-textarea" cols="40" rows="10" data-rule="required" data-msg="Please
       <div class="container">
         <div class="row animated opacity mar-bot20" data-andown="fadeIn" data-animation="animation">
           <div class="col-sm-12 align-center">
-            <ul class="social-network social-circle"><!--
+            <ul class="social-network social-circle">
               <li><a href="#" class="icoRss" title="Rss"><i class="fa fa-rss"></i></a><br>
               </li>
               <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a><br>
@@ -338,7 +297,7 @@ class="cform-textarea" cols="40" rows="10" data-rule="required" data-msg="Please
               <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a><br>
               </li>
               <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a><br>
-              </li> -->
+              </li>
             </ul>
           </div>
         </div>
@@ -380,6 +339,5 @@ class="cform-textarea" cols="40" rows="10" data-rule="required" data-msg="Please
     <script src="contactform/contactform.js"></script>
     <!-- Template Main Javascript File -->
     <script src="js/main.js"></script>
-
   </body>
 </html>
