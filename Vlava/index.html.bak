@@ -62,7 +62,7 @@
         <div class="row mar-bot40">
           <div class="col-lg-4">
             <div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a mar-top20">
-              <div class="float-left mar-right20"> <a href="techTemp.html" class="hi-icon hi-icon-screen">screen</a>
+              <div class="float-left mar-right20"> <a href="#" class="hi-icon hi-icon-screen">screen</a>
               </div>
             </div>
             <h3 class="text-bold">Technology</h3>
@@ -71,7 +71,7 @@
           </div>
           <div class="col-lg-4">
             <div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a mar-top20">
-              <div class="float-left mar-right20"> <a href="problemTemp.html" class="hi-icon hi-icon-location">location</a>
+              <div class="float-left mar-right20"> <a href="#" class="hi-icon hi-icon-location">location</a>
               </div>
             </div>
             <h3 class="text-bold">The Problem</h3>
@@ -80,7 +80,7 @@
           </div>
           <div class="col-lg-4">
             <div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a mar-top20">
-              <div class="float-left mar-right20"> <a href="docTemp.html" class="hi-icon hi-icon-images">images</a>
+              <div class="float-left mar-right20"> <a href="https://github.com/Kcin1997/Kcin1997.github.io" class="hi-icon hi-icon-images">images</a>
               </div>
             </div>
             <h3 class="text-bold">Documentation</h3>
@@ -91,7 +91,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a mar-top20">
-              <div class="float-left mar-right20"> <a href="https://github.com/Kcin1997/Kcin1997.github.io" class="hi-icon hi-icon-archive">archive</a>
+              <div class="float-left mar-right20"> <a href="#" class="hi-icon hi-icon-archive">archive</a>
               </div>
             </div>
             <h3 class="text-bold">Source Code</h3>
@@ -100,7 +100,7 @@
           </div>
           <div class="col-lg-4">
             <div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a mar-top20">
-              <div class="float-left mar-right20"> <a href="solutionTemp.html" class="hi-icon hi-icon-contract">Mobile</a>
+              <div class="float-left mar-right20"> <a href="#" class="hi-icon hi-icon-contract">Mobile</a>
               </div>
             </div>
             <h3 class="text-bold">Our Solution</h3>
@@ -109,7 +109,7 @@
           </div>
           <div class="col-lg-4">
             <div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a mar-top20">
-              <div class="float-left mar-right20"> <a href="scheduleTemp.html" class="hi-icon hi-icon-clock">Faster</a>
+              <div class="float-left mar-right20"> <a href="#" class="hi-icon hi-icon-clock">Faster</a>
               </div>
             </div>
             <h3 class="text-bold">Current Schedule</h3>
