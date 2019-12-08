@@ -24,7 +24,7 @@
     <p> Our solution is to build a web application that allows users to see
       forest structure and biomass levels for a region that they choose. It will
       analyze the data for them and help them understand the results. </p>
-    <p> The key tasks we have to accomplish are as follows: </p>
+    <p> The key tasks we have to acomplish are as follows: </p>
     <ul>
       <li>Convert Dr Jantz's code to Python scripts, to be hosted on Microsoft
         Azure</li>
